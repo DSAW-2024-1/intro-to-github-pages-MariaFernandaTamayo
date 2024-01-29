@@ -1,0 +1,96 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    background-color: hsl(255, 26%, 91%); /* Cambiado a un tono blanco */
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+  }
+  h3.center span {
+    color:#000;
+    font-size: 15px;
+
+  }
+  .center p{
+    font-size: 15px;
+  }
+  h1, h3, h5 {
+    color: rgb(5, 3, 5); 
+  }
+  
+  h1 span, h3 span, h5 span {
+    font-weight: bold;
+  }
+
+  p {
+    color: #000; /* Color negro para los elementos <p> */
+  }
+  
+  
+  .center {
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+    border-radius: 8px;
+    color: #000;
+  }
+  th {
+    background-color: #4CAF50; /* Fondo verde oscuro para las celdas de encabezado */
+    color: white; /* Texto blanco para las celdas de encabezado */
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: center;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd; /* Borde gris claro */
+    padding: 12px;
+    text-align: center;
+    border-radius: 8px; /* Bordes redondeados */
+  }
+  
+  th {
+    background-color: #f2f2f2; /* Fondo gris claro para las celdas de encabezado */
+  }
+  
+  /* Color de texto negro para las celdas de la tabla */
+  table, th, td {
+    color: #000;
+  }
+  
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  
+  .attribution a {
+    color: #3d5a80;
+  }
